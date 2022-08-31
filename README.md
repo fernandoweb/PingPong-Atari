@@ -1,1 +1,1 @@
-# PRJ---PingPong-Atari---JavaScript
+# PingPong Atari
